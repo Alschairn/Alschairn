@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-[![](http://antzuhl.cn:4000/get/@Alschairn.readme)](http://alschairn.top/)
+## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
 
-![info](https://github-readme-stats.vercel.app/api?username=Alschairn&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
 
+I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
+-   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
+-   :man: Pronouns: he/him
+-   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
+
+---
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
