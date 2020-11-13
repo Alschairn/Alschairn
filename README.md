@@ -1,17 +1,15 @@
-### Hi there 👋
 
-## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+## Hey, xiaoxin here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=xiaoxin&style=flat-square)](https://alschairn.top)
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
+<img align="right" alt="xiaoxin's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=alschairn&show_icons=true">
 
 I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :hammer_and_pick: Java/Go/Python, a little bit JavaScript/Shell/Rust/Vue
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
 -   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
 -   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
 -   :man: Pronouns: he/him
--   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
 
 ---
 
