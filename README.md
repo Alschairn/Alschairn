@@ -9,6 +9,8 @@ I'm X**xiao** X**i**n, from R'lyeh.
 -   :seedling: Flink / Hadoop / Kafka / Spring Cloud / MySQL
 -   :pencil2: Swift / Android / Flutter 
 -   :package: Arch Linux / VS Code / IDEA IDE / Oh My Zsh / Go Land
+-   :thinking: 
+-   :man: Talk is cheap, show me the code. 
 
 ---
 
