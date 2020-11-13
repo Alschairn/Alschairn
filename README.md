@@ -6,3 +6,5 @@
 
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)
+![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)
