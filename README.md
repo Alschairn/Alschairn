@@ -3,13 +3,12 @@
 
 <img align="right" alt="xiaoxin's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=alschairn&show_icons=true">
 
-I'm X**xiao** X**i**n, from China.
+I'm X**xiao** X**i**n, from R'lyeh.
 
--   :hammer_and_pick: Java/Go/Python, a little bit JavaScript/Shell/Rust/Vue
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
--   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
--   :man: Pronouns: he/him
+-   :hammer_and_pick: I work using: Java / Go / Python, a little bit JavaScript
+-   :seedling: I also use and work: Flink / Hadoop / Kafka / Rocket MQ / Spring Cloud / MySQL / Redis
+-   :pencil2: Learning all about: Swift / Android / Flutter 
+-   :package: Arch Linux / VS Code / IDEA IDE / Oh My Zsh / Go Land
 
 ---
 
