@@ -3,7 +3,7 @@
 
 <img align="right" alt="xiaoxin's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=alschairn&show_icons=true">
 
-I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
+I'm X**xiao** X**i**n, from China.
 
 -   :hammer_and_pick: Java/Go/Python, a little bit JavaScript/Shell/Rust/Vue
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
