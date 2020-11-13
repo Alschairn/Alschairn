@@ -5,9 +5,9 @@
 
 I'm X**xiao** X**i**n, from R'lyeh.
 
--   :hammer_and_pick: I work using: Java / Go / Python, a little bit JavaScript
--   :seedling: I also use and work: Flink / Hadoop / Kafka / Rocket MQ / Spring Cloud / MySQL / Redis
--   :pencil2: Learning all about: Swift / Android / Flutter 
+-   :hammer_and_pick: Java / Go / Python, a little bit JavaScript
+-   :seedling: Flink / Hadoop / Kafka / Spring Cloud / MySQL
+-   :pencil2: Swift / Android / Flutter 
 -   :package: Arch Linux / VS Code / IDEA IDE / Oh My Zsh / Go Land
 
 ---
