@@ -3,14 +3,12 @@
 
 <img align="right" alt="xiaoxin's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=alschairn&show_icons=true">
 
-I'm X**iao** X**i**n, from R'lyeh.
+I'm X**iao** X**i**n, from Beijing.
 
 -   :hammer_and_pick: Java / Go / Python, a little bit JavaScript
 -   :seedling: Flink / Hadoop / Kafka / Spring Cloud / MySQL
 -   :pencil2: Swift / Android / Flutter 
--   :package: Arch Linux / VS Code / IDEA IDE / Oh My Zsh / Go Land
--   :thinking: 
--   :man: Talk is cheap, show me the code. 
+-   :package: Arch Linux / VS Code / IDEA IDE / Oh My Zsh / Go Land 
 
 ---
 
